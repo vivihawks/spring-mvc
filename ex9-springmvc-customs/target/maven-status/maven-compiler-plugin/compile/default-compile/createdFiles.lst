@@ -1,0 +1,14 @@
+com\baeldung\customvalidator\FieldsValueMatch.class
+com\baeldung\web\controller\NewUserController.class
+com\cts\academy\spring\mvc\config\MainWebAppInitializer.class
+com\baeldung\web\controller\handlermapping\WelcomeController.class
+com\baeldung\model\NewUserForm.class
+com\baeldung\web\controller\handlermapping\SimpleUrlMappingController.class
+com\baeldung\customvalidator\ContactNumberConstraint.class
+com\baeldung\web\controller\ValidatedPhoneController.class
+com\baeldung\web\controller\handlermapping\BeanNameHandlerMappingController.class
+com\baeldung\customvalidator\FieldsValueMatchValidator.class
+com\baeldung\spring\web\config\WebConfig.class
+com\baeldung\customvalidator\FieldsValueMatch$List.class
+com\baeldung\model\ValidatedPhone.class
+com\baeldung\customvalidator\ContactNumberValidator.class
